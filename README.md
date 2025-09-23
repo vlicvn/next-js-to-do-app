@@ -55,7 +55,7 @@ to-do-app/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/vlicvn/next-js-to-do-app
-   cd to-do-app
+   cd next-js-to-do-app
    ```
 
 2. **Install dependencies**
