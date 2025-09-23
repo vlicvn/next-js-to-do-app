@@ -54,7 +54,7 @@ to-do-app/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/vlicvn/next-js-to-do-app
    cd to-do-app
    ```
 
@@ -83,7 +83,7 @@ to-do-app/
    ```
 
 5. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the application
+   Navigate to (http://localhost:3000) to see the application
 
 ## 📋 Available Scripts
 
